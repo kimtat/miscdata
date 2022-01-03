@@ -2,4 +2,7 @@
 
 for run testing data only, sorry for any offense.
 
-GET https://my-json-server.typicode.com/kimtat/miscdata/[filename]
+GET https://raw.githack.com/kimtat/miscdata/main/nftmetadata_artblock.json
+
+
+GET https://raw.githack.com/kimtat/miscdata/main/nftmetadata_opensea.json
